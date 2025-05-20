@@ -31,7 +31,9 @@ Change to the "MyLab" directory and create an empty text file named "MyFile.txt"
 cd %userprofile%\Desktop\MyLab
 ```
 ![image](https://github.com/user-attachments/assets/5e5dc0f2-a29f-4b24-9ee9-3a25661f8f5b)
+
 type nul > MyFile.txt
+
 ![image](https://github.com/user-attachments/assets/2631b0d7-4097-42ca-a458-26c6c14beeca)
 
 List the contents of the "MyLab" directory.
