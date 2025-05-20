@@ -90,12 +90,6 @@ echo Backup completed successfully!
 
 ![image](https://github.com/user-attachments/assets/439426dc-40b4-4df0-b607-61c6f0b4f8dd)
 
-## Result
-The commands/batch files are executed successfully.
-
-
-
-
 # RESULT:
 The commands/batch files are executed successfully.
 
